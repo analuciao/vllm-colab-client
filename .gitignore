@@ -1,0 +1,9 @@
+# macOS and editor junk
+.DS_Store
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+env/
+venv/
